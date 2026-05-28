@@ -69,3 +69,5 @@ To complete this task:
 
 8. Commit `tfplan.json` file and the screenshot from the VM, and submit your solution for review.
 9. Go and watch that video you uploaded to your S3 bucket — this is the last task in the module! Well done!
+
+![S3 Upload Success](pictures/s3-upload-success.png)
